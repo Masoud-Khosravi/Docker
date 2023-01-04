@@ -2,9 +2,9 @@
 
 # Create $\color{Yellow}Docker$ and work with that
 
-![GitHub last commit](https://img.shields.io/github/last-commit/Masoud-Khosravi/SQLite)
-![GitHub repo file count](https://img.shields.io/github/directory-file-count/Masoud-Khosravi/SQLite)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Masoud-Khosravi/SQLite)  
+![GitHub last commit](https://img.shields.io/github/last-commit/Masoud-Khosravi/Docker)
+![GitHub repo file count](https://img.shields.io/github/directory-file-count/Masoud-Khosravi/Docker)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Masoud-Khosravi/Docker)
 
 
 # $\color{red}Hello \space \color{lightblue}and \space \color{orange}Wellcome$
@@ -18,28 +18,27 @@
 ## [Here --> Click me](https://img.shields.io/github/last-commit/Masoud-Khosravi/SQLite)
 </div>
 
-## For Example:
-+ Connecting to SQLite
-+ Creatung Table
-+ Reading table's data
-+ Reading data by views in sql
-+ Storing data in sql tables
-+ Using sql commands
-+ And finaly We try to create one Graphical User Interface by tkinter
-###  <  Note: This a very simple project to familiarize you more with this environment >
-## OK, Let's go
-
-#
-You can take a look at it :
+## You can take a look :
 ![firest_window](img/Firest_page.png)
 <br/>
 
 ![new_window](img/new_win.png)
 
 
+# 
+# Now we create a simple function for use that sql commands in docker
 
+You can see Dockerfile in files for more explaination or 
+
+## use this : 
 
 <br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
 
 ## Other Repositories:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=masoud-khosravi&repo=SQL-Python)](https://github.com/Masoud-Khosravi/SQL-Python)
